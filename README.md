@@ -21,3 +21,6 @@ It allows users to convert one currency into another using **real-time exchange 
 - **CSS** – Styling and layout  
 - **JavaScript** – Logic and API integration  
 - **Currency Exchange API** – For real-time exchange rates 
+
+# 🌐 Live Demo
+👉 https://ruturajkamble3007.github.io/Currency-Converter/
